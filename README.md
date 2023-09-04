@@ -1,2 +1,2 @@
 # Matplotlib
-Asked a tutor if regression was correct; it was I just missplaced the x and y axis.
+In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
